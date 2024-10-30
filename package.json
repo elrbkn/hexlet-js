@@ -9,9 +9,7 @@
     "url": "https://github.com/elrbkn/hexlet/issues",
     "email": "rybkina01@list.ru"
   },
-  "license": {
-  "license": ""
-  },
+  "license": "ISC",
   "funding": {
     "type": "individual",
     "url": ""
@@ -24,5 +22,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
