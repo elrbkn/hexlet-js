@@ -1,4 +1,4 @@
-import _ from "lodash";
+import { my, fromLodash } from './src/index.js';
 
-console.log(_.last(["one", "two"]));
-console.log("Hello, Hexlet!");
+my();
+fromLodash();
